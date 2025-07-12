@@ -1,5 +1,11 @@
 # Contextual News Analyser
 
+<img width="1000" height="850" alt="image" src="https://github.com/user-attachments/assets/098408a7-a917-4bd7-9d0c-59d0325b17a5" />
+
+<img width="1000" height="858" alt="image" src="https://github.com/user-attachments/assets/889fe5aa-0305-4267-8317-e9ef42caa3d1" />
+
+## Description
+
 **Contextual News Analyser** is a Python-based tool that provides meaningful insights from raw news content by summarizing articles, classifying topics, and analyzing sentiment—all without the need for labeled training data. The project leverages advanced NLP techniques such as TextRank for summarization, zero-shot learning with BART-large-MNLI for topic classification, and sentiment analysis. The entire workflow is implemented in Jupyter Notebooks for ease of exploration and reproducibility.
 
 ## Features
